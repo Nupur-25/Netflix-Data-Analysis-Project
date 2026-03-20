@@ -30,8 +30,6 @@ The workflow starts from raw data and proceeds through cleaning, pivot-table ana
 |---|---|---|
 | Raw Dataset | `movies.xlsx` | Original source dataset |
 | Clean Dataset | `Copy of movies.xlsx` | Cleaned workbook with analysis sheets |
-| Pivot Tables and Calculations | `Pivot Tables and Calculations/Movies Pivot Data Analysis1.xlsx` | Pivot analysis workbook (v1) |
-| Pivot Tables and Calculations | `Pivot Tables and Calculations/Movies Pivot Data Analysis2.xlsx` | Pivot analysis workbook (v2) |
 | Dashboard | `Dashboard.png` | Dashboard screenshot |
 
 ---
