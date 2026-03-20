@@ -159,7 +159,7 @@ Dashboard visuals include:
 
 ## 9. Dashboard Image
 
-![Dashboard](Dashboard/Screenshot%202026-02-24%20011043.png)
+![Dashboard](Dashboard.png)
 
 ---
 
