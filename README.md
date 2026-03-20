@@ -101,7 +101,7 @@ The workflow starts from raw data and proceeds through cleaning, pivot-table ana
 
 ## 6. Cleaning Notes
 
-The cleaned workbook (`Clean movies.xlsx`) uses a slightly transformed structure:
+The cleaned workbook (`Copy of movies.xlsx`) uses a slightly transformed structure:
 
 - `movie_id` is split into `movie` and `id` columns
 - `title` is not retained in the cleaned sheet
