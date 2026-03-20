@@ -28,12 +28,11 @@ The workflow starts from raw data and proceeds through cleaning, pivot-table ana
 
 | Folder | File | Description |
 |---|---|---|
-| Raw Dataset | `Raw Dataset/Movies.csv` | Original source dataset |
-| Clean Dataset | `Clean Dataset/Clean movies.xlsx` | Cleaned workbook with analysis sheets |
-| Clean Dataset | `Clean Dataset/Clean movies - movies.pdf` | PDF export of cleaned sheet |
+| Raw Dataset | `movies.xlsx` | Original source dataset |
+| Clean Dataset | `Copy of movies.xlsx` | Cleaned workbook with analysis sheets |
 | Pivot Tables and Calculations | `Pivot Tables and Calculations/Movies Pivot Data Analysis1.xlsx` | Pivot analysis workbook (v1) |
 | Pivot Tables and Calculations | `Pivot Tables and Calculations/Movies Pivot Data Analysis2.xlsx` | Pivot analysis workbook (v2) |
-| Dashboard | `Dashboard/Screenshot 2026-02-24 011043.png` | Dashboard screenshot |
+| Dashboard | `Dashboard.png` | Dashboard screenshot |
 
 ---
 
